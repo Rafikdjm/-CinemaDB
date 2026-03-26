@@ -31,17 +31,8 @@ JOIN film ON film.id_film = acteur_joue_film.id_film;
 ![jointure](images/jointure.png)
 
 
-## 🐍 Résultat Python
-
-```markdown
-## 🐍 Exploitation en Python
-
 ## 🐍 Resultat Python
 
 Résultat obtenu après exécution du script Python connecté à la base de données :
 
-Exemple de sortie :
-- Bokova
-- Stefichbo
-
-![Resultat Python](images/resultat_python.png)
+![Resultat Python](images/codepythonr.png)
