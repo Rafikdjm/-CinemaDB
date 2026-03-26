@@ -26,7 +26,8 @@ FROM acteur
 JOIN acteur_joue_film ON acteur.id_acteur = acteur_joue_film.id_acteur
 JOIN film ON film.id_film = acteur_joue_film.id_film;
 
-
+```
+## le resultat
 ![jointure](images/jointure.png)
 
 
