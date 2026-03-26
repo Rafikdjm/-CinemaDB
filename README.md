@@ -39,4 +39,5 @@ JOIN film ON film.id_film = acteur_joue_film.id_film;
 Résultat affiché après connexion à la base :
 
 ```
-![Résultat Python](images/codepythonr.pngcodepythonr.png)
+# Resultat py
+![Résultat Python](images/codepythonr.png)
